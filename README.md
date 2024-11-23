@@ -211,3 +211,15 @@ we hebben vandaag geleerd hoe we goeie html moeten schrijven voor een betere geb
 
 24-10
 ik heb vandaag aan het begin van de les geleerd hoe ik mijn laptop kan gebruiken zonder een muis dus ik kon alles alleen met me toetsenbord bestuurd daarna ben ik een code review gaan houden met een 2e jaars 
+
+
+
+
+
+November
+11/11
+wat ik heb vandaag gedaaan:
+- ik heb vandaag een stylesheet en een styleguide gemaakt en een wireframe voor de homepagina en voor de over ons pagina 
+
+wat heb ik vandaag geleerd: 
+- 

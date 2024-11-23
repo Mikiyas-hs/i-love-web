@@ -1,7 +1,15 @@
+@font-face {
+    font-family: 'OTFFont-regular';
+    font-weight: 700;
+    src: url("./Assests/OTFFont-Regular.otf") format('opentype');
+}
+
+
 body{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     grid-template-rows: 2fr 2fr 2fr;
+    font-family: 'OTFFont-regular';
 }
 
 header{
