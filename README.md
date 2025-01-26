@@ -107,6 +107,7 @@ breakdown schets en daarvan een issue maken ik heb ook nog gewerkt aan opdracht 
 wat heb ik vandaag geleerd
 
 
+
 Ma 16 sep
 
 - Wat heb ik vandaag gedaan?
@@ -217,9 +218,94 @@ ik heb vandaag aan het begin van de les geleerd hoe ik mijn laptop kan gebruiken
 
 
 November
-11/11
-wat ik heb vandaag gedaaan:
-- ik heb vandaag een stylesheet en een styleguide gemaakt en een wireframe voor de homepagina en voor de over ons pagina 
 
-wat heb ik vandaag geleerd: 
-- 
+CHECKOUT
+MA 11 NOV
+Wat heb ik vandaag geleerd?
+Hoe je een styleguide maakt en waarom een huisstijl belangrijk is voor het vertrouwen van de consument
+ 
+CHECKOUT
+WO 13 NOV
+ 
+ Wat heb ik vandaag gedaan?
+Ik heb vandaag een stylesheet gemaakt met mijn groep.
+
+Wat heb ik vandaag geleerd?
+Ik heb geleerd hoe je een stylesheet moet maken
+Ik heb geleerd hoe je een styleguide moet maken
+Ik heb geleerd wat de belangen zijn van een goede styleguide en stylesheet
+ 
+
+CHECKOUT
+MA 18 NOV
+
+Documenteer wat je vandaag hebt gedaan.
+voeg links toe 
+
+vandaag heb ik geleerd hoe ik zelf fonts kan maken
+ 
+schrijf 3 dingen op die je geleerd hebt
+ 
+schrijf op wat je nu gaat doen
+ 
+
+ 
+ 
+CHECKOUT
+MA 25 NOV
+ 
+schrijf in je eigen woorden de 3 gestalt wetten die je vandaag met je team hebt onderzocht.
+- law of proximity/similarity/common region
+
+link naar voorbeelden die je hebt gemaakt en bronnen die je hebt gebruikt.
+ 
+https://github.com/Mikiyas-hs/look-and-feel-corporate-identity/issues/17
+
+
+ 
+ 
+CHECKOUT
+WO 27 NOV
+ 
+
+ 
+CHECKOUT
+VR 29 NOV
+wireframe en sitemap schets  
+look-and-feel-corporate-identity
+ 
+
+
+MA 9 DEC
+
+Wat heb ik vandaag gedaan
+ik heb vandaag de workshop UI Events gevolgd
+
+MA 16 DEC
+Stel jezelf 3 studievragen over navigeren en label
+
+Wat wil je laten zien bij de laatste sprint review:
+ik wil graag mijn dark mode interactie laten zien 
+
+
+MA 13 JAN
+Wat heb ik vandaag gedaan
+
+ik heb vandaag bedacht watvoor interactie ik wil maken voor de opdrachtgever en ik heb dit ook uitgewerkt in een schets
+
+ WO 15 JAN
+Wat heb ik vandaag geleerd
+
+ik heb vandaag geleerd hoe we disney animaties kunnen toepassen op onze website 
+
+MA 20 JAN
+Wat heb ik vandaag geleerd
+
+ik heb vandaag geleerd hoe ik mijn code moet refactoren
+
+- mijn code formatten
+- mijn html en css op dezelfde manier uitlijnen 
+- mijn css nesten 
+
+
+
