@@ -298,6 +298,13 @@ Wat heb ik vandaag geleerd
 
 ik heb vandaag geleerd hoe we disney animaties kunnen toepassen op onze website 
 
+VR 17 JAN
+wat heb ik gedaan 
+- ik heb code design user test gedaan 
+
+wat heb ik vandaag geleerd
+- hoe ik mijn interactie kan verbeteren
+
 MA 20 JAN
 Wat heb ik vandaag geleerd
 
