@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+body > * {
+  min-height: 1em;
+}
+h1 {
+  margin: 0;
+  font-size: 100%;
+}
+header, .cyan {
+  background: #009FDF;
+}
+nav, .magenta {
+  background: #D40F7D;
+}
+main, .yellow {
+  background: #FAE100;
+}
+footer, .black {
+  background: #2C2A29;
+  color: white;
+}
+a, a:visited {
+  color: inherit;
+}
