@@ -1,143 +1,56 @@
 <!DOCTYPE html>
+
 <html lang="nl">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>I-love-web</title>
-        <link href="style.css" rel="stylesheet"> 
-    </head>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I-love-web</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
 
 <body>
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Explore Space</title>
-        <style>
-            /* Reset */
-            * {
-                margin: 0;
-                padding: 0;
-                box-sizing: border-box;
-            }
-    
-            body {
-                font-family: Arial, sans-serif;
-                background: url('https://via.placeholder.com/1920x1080.png?text=Space+Background') no-repeat center center/cover;
-                color: white;
-                overflow-x: hidden;
-            }
-    
-            header {
-                background: rgba(0, 0, 0, 0.8);
-                padding: 20px;
-                position: fixed;
-                width: 100%;
-                top: 0;
-                z-index: 100;
-            }
-    
-            header nav {
-                display: flex;
-                justify-content: center;
-                gap: 30px;
-            }
-    
-            header nav a {
-                color: white;
-                text-decoration: none;
-                font-size: 1.2rem;
-                transition: color 0.3s ease;
-            }
-    
-            header nav a:hover {
-                color: #00d4ff;
-            }
-    
-            .hero {
-                height: 100vh;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-                padding: 20px;
-            }
-    
-            .hero h1 {
-                font-size: 3rem;
-                margin-bottom: 10px;
-            }
-    
-            .hero p {
-                font-size: 1.5rem;
-                color: #ccc;
-            }
-    
-            .gallery {
-                padding: 50px 20px;
-                text-align: center;
-            }
-    
-            .gallery h2 {
-                margin-bottom: 30px;
-                font-size: 2rem;
-            }
-    
-            .gallery .image-grid {
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-                gap: 20px;
-            }
-    
-            .gallery .image-grid img {
-                width: 100%;
-                border-radius: 10px;
-                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-                transition: transform 0.3s ease;
-            }
-    
-            .gallery .image-grid img:hover {
-                transform: scale(1.05);
-            }
-    
-            footer {
-                background: rgba(0, 0, 0, 0.8);
-                padding: 20px;
-                text-align: center;
-                margin-top: 50px;
-            }
-        </style>
-    </head>
-    <body>
-        <header>
-            <nav>
-                <a href="#hero">Home</a>
-                <a href="#gallery">Gallery</a>
-                <a href="#contact">Contact</a>
-            </nav>
-        </header>
-    
-        <section class="hero" id="hero">
-            <div>
-                <h1>Explore the Universe</h1>
-                <p>Discover the wonders of space with stunning visuals and fascinating information.</p>
+    <div class="container">
+    <video class="background-vid" autoplay loop muted plays-inline src="Assests/galaxy.mp4"></video>
+            
+    <video class="background-vid-2" autoplay loop muted plays-inline src="Assests/blackhole.mp4"></video>
+    </div>
+
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">about</a></li>
+                <li><a href="#">skills</a></li>
+                <li><a href="#">projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+        <main class="section-one">
+            <h1>
+                Welcome <span class="gradient-text">to my</span> <br> <span class="gradient-text">Universe</span>
+            </h1>
+            <p>Ik ben een student Front-end ontwikkelaar met ervaring in het maken van responsive websites met HTML, CSS & JS. Bekijk mijn projecten en vaardigheden.
+            </p>
+
+        <div class="box">
+
+                <span style="--i:1"><img src="Assests/Mercury.png"></span>
+                <span style="--i:2"><img src="Assests/planet2.png"></span>
+                <span style="--i:3"><img src="Assests/mars.png"></span>
+                <span style="--i:4"><img src="Assests/Jupiter.png"></span>
+                <span style="--i:5"><img src="Assests/venus2.png"></span>
             </div>
-        </section>
-    
-        <section class="gallery" id="gallery">
-            <h2>Space Gallery</h2>
-            <div class="image-grid">
-                <img src="https://via.placeholder.com/600x400.png?text=Galaxy" alt="Galaxy">
-                <img src="https://via.placeholder.com/600x400.png?text=Planet" alt="Planet">
-                <img src="https://via.placeholder.com/600x400.png?text=Nebula" alt="Nebula">
-                <img src="https://via.placeholder.com/600x400.png?text=Stars" alt="Stars">
-            </div>
-        </section>
-    
-        <footer id="contact">
-            <p>&copy; 2025 Explore Space. All rights reserved.</p>
-        </footer>
-    </body>
-    </html>
-    
+        </main>
+        
+
+    <footer class="box-icons">
+        <a class="icon1"><i class='bx bxl-linkedin-square' ></i></a>
+        <a class="icon2"><i class='bx bxl-instagram' ></i></a>
+        <a class="icon3"><i class='bx bxl-github' ></i></a>
+    </footer>
+</body>
+
+</html>

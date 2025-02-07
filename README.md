@@ -316,3 +316,14 @@ ik heb vandaag geleerd hoe ik mijn code moet refactoren
 
 
 
+MA 3 FEB
+ik heb vandaag geleerd:
+
+ - hoe ik data moet fetchen en waar data is opgeslagen en ik heb de basis van liquad html geleerd 
+
+
+WO 5 FEB
+ik heb vandaag geleerd:
+
+- Hoe ik te werk kan gaan met liquid filters 
+- en hoe ik custom data kan gebruiken 
