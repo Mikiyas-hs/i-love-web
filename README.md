@@ -327,3 +327,18 @@ ik heb vandaag geleerd:
 
 - Hoe ik te werk kan gaan met liquid filters 
 - en hoe ik custom data kan gebruiken 
+
+
+VR 7 FEB 
+Wat heb ik vandaag gedaan?
+
+- ik heb vandaag een code design review gedaan waarbij ik mede studenten hun code heb gereviewed 
+
+- en waarbij andere studenten ook mijn code hebben gereviewed
+
+MA 10 FEB 
+Wat heb ik vandaag gedaan? 
+
+- Vandaag heb ik 6 schetsen gemaakt voor de squadpage die ik met me groepje ga maken
+
+- ik heb regels gemaakt met mijn groepje en dat hebben we uitgeschreven in onze team canvas 
