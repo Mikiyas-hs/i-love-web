@@ -342,3 +342,12 @@ Wat heb ik vandaag gedaan?
 - Vandaag heb ik 6 schetsen gemaakt voor de squadpage die ik met me groepje ga maken
 
 - ik heb regels gemaakt met mijn groepje en dat hebben we uitgeschreven in onze team canvas 
+
+
+MA 24 FEB
+
+- Vandaag heb ik met mijn groepje een user generated content toegevoegd aan onze design dmv een get en post route hierdoor kun je bijv likes achterlaten 
+en we hebben een takenverdeling opnieuw gedaan 
+
+- Wat ik vandaag heb geleerd is hoe je te werk gaat met post en get routes
+
