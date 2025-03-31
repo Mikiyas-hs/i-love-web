@@ -1,0 +1,38 @@
+body {
+background-color: #6fd2c3;
+}
+
+h1 {
+    font-size: 8em;
+    color: purple;
+    /* background: linear-gradient(to right,#8e05af, #8679c5);
+    color: #0000ff00;
+    background-clip: text; */
+}
+
+@supports (background-clip: text){
+    h1 {
+        background: linear-gradient(to right,#8e05af, #8679c5);
+        color: #0000ff00;
+        background-clip: text;
+    }
+}
+
+/* button {
+border-radius: 19em;
+height: 46em;
+width: 48em;
+margin-left: 9em;
+background-color: purple;
+} */
+
+button {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: #4b0968;
+    border: none;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
