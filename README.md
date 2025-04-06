@@ -356,52 +356,55 @@ en we hebben een takenverdeling opnieuw gedaan
 VR 28 FEB
 VRAGENLIJST 
 
-1. Ik kan uitleggen wat NodeJS is en waarvoor het gebruikt wordt: (3)
+1. Ik kan uitleggen wat NodeJS is en waarvoor het gebruikt wordt: (3) (3)
 
-2. Ik weet wat het doel van package.json is en heb hier aanpassingen ingemaakt: (1)
+2. Ik weet wat het doel van package.json is en heb hier aanpassingen ingemaakt: (1) (2)
 
-3. Ik heb met npm packages geïnstalleerd en gebruikt in het bestand server.js: (3)
+3. Ik heb met npm packages geïnstalleerd en gebruikt in het bestand server.js: (3) (3)
 
-4. Ik kan met commando’s in de terminal een NodeJS project stoppen en starten: (3)
+4. Ik kan met commando’s in de terminal een NodeJS project stoppen en starten: (3) (3)
 
-5. Ik weet waarom ik mijn NodeJS project regelmatig moet herstarten en kan dit uitleggen: (2)
+5. Ik weet waarom ik mijn NodeJS project regelmatig moet herstarten en kan dit uitleggen: (2) (3)
 
-6. Ik heb een strategie voor debuggen inNodeJS: (0)
+6. Ik heb een strategie voor debuggen inNodeJS: (0)(1)
 
-7. Ik kan uitleggen wat Express.js doet en waarom het nodig is om met NodeJS een website te bouwen: ()
+7. Ik kan uitleggen wat Express.js doet en waarom het nodig is om met NodeJS een website te bouwen: () (3)
 
-8. Ik weet wat routes zijn en kan zelf een nieuwe route aanmaken: (2)
+8. Ik weet wat routes zijn en kan zelf een nieuwe route aanmaken: (2)(3) [voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/server.js#L50-L60)
 
-9. Ik weet wat request en response argumenten zijn ineen functie voor het laden van data: (2)
+9. Ik weet wat request en response argumenten zijn ineen functie voor het laden van data: (2)(3)
 
-10. Ik heb gebruik gemaakt van een request parameter om specifieke data te laden: (2)
+10. Ik heb gebruik gemaakt van een request parameter om specifieke data te laden: (2)(3) [Voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/server.js#L76-L77)
 
-11. Ik kan uitleggen wat Liquid doet en waarom het nodig is om met Express.js een website te maken: (1/2)
+11. Ik kan uitleggen wat Liquid doet en waarom het nodig is om met Express.js een website te maken: (1/2)(3)
 
-12. Ik weet hoe ik data naar Liquid verstuur om dit te gebruiken bij het renderen van een pagina: (2)
+12. Ik weet hoe ik data naar Liquid verstuur om dit te gebruiken bij het renderen van een pagina: (2)(3) [voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/server.js#L37-L46)
 
-13. Ik weet hoe ik Liquid filters toe kan passen en waar ik kan vinden hoe die werken: (1)
+13. Ik weet hoe ik Liquid filters toe kan passen en waar ik kan vinden hoe die werken: (1)(2/3)
 
-14. Ik heb een nieuwe route gemaakt en nieuwe data meegegeven aan een Liquid view: (2)
+14. Ik heb een nieuwe route gemaakt en nieuwe data meegegeven aan een Liquid view: (2)(3) [voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/server.js#L49-L60)
 
-15. Ik weet waar een foreach loop voor gebruikt wordt en pas het toe in een Liquid view omHTML te renderen: (2)
+15. Ik weet waar een foreach loop voor gebruikt wordt en pas het toe in een Liquid view omHTML te renderen: (2)(3) [voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/views/index.liquid#L20-L22)
 
-16. Ik kan in Liquid een controle maken waarmee de avatar niet getoond wordt als deze niet in whois.fdnd.nl is ingevuld (1)
+16. Ik kan in Liquid een controle maken waarmee de avatar niet getoond wordt als deze niet in whois.fdnd.nl is ingevuld (1)(2)
 
-17. Ik heb een strategie voor debuggen in Liquid (2)
+17. Ik heb een strategie voor debuggen in Liquid (2)(0)
 
-18. Ik kan data fetchen uit eenREST API(2)
+18. Ik kan data fetchen uit eenREST API(2)(3) [voorbeeld](https://github.com/Mikiyas-hs/the-web-is-for-everyone-interactive-functionality/blob/1ad1056e4e0ac082e2f95532a3ac0c943eb47887/server.js#L8-L16)
 
-19. Ik snap het verschil tussen HTTP requests van de methodes GET en POST(1)
+19. Ik snap het verschil tussen HTTP requests van de methodes GET en POST(1)(1/2)
 
-20. Ik kan data uit eenREST API filteren of sorteren (2)
+20. Ik kan data uit eenREST API filteren of sorteren (2)(3)
 
-21. Ik snap wat het async keyword doet inJavaScriptcode (2)
+21. Ik snap wat het async keyword doet inJavaScriptcode (2)(3)
 
-22. Ik weet wat het doel is van een try/catch block en kan het gebruiken bij het parsen van JSON(1)
+22. Ik weet wat het doel is van een try/catch block en kan het gebruiken bij het parsen van JSON(1)(1/2)
 
-23. Ik begrijp het verschil tussen client-side JavaScript en server-side JavaScript en wanneer ik welke het handigst in kan zetten(2)
+23. Ik begrijp het verschil tussen client-side JavaScript en server-side JavaScript en wanneer ik welke het handigst in kan zetten(2)(3)
 
-24. Ik kan formulier data die is ge-POST opslaan ineen variabele op de server en gebruiken bij het renderen van een pagina(1/2)
+24. Ik kan formulier data die is ge-POST opslaan ineen variabele op de server en gebruiken bij het renderen van een pagina(1/2)(3)
 
-25. Ik kan formulierdata die is ge-POST door middelvan een POST of PATCH HTTP request opslaan in de REST API(1)
+25. Ik kan formulierdata die is ge-POST door middelvan een POST of PATCH HTTP request opslaan in de REST API(1)(2/3)
+
+
+
